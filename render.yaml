@@ -1,7 +1,7 @@
 databases:
   - name: deploy-trial
-    databaseName: deploy-trial
-    user: deploy-trial
+    databaseName: deploy_trial
+    user: deploy_trial
 
 services:
   - type: web
